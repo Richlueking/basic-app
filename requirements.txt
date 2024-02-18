@@ -1,0 +1,10 @@
+Django
+django-ckeditor
+django-cors-headers
+django-environ
+django-richtextfield
+gunicorn
+psycopg2
+sqlparse
+Pillow
+
